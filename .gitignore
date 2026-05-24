@@ -1,0 +1,5 @@
+.env
+historico_ia.db
+__pycache__/
+.idea/
+.venv/
